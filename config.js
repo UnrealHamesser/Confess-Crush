@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi Đến Em Nè",
-    introTitle: 'Người Xinh Đẹp Tên Tuệ CHi',
+    introTitle: 'Nguyễn Ngọc Tuệ Chi',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
